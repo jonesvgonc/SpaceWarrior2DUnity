@@ -1,0 +1,856 @@
+fileFormatVersion: 2
+guid: c52235172fc746748b0aded26b3d45f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3311735026042817328
+    second: Naves_0
+  - first:
+      213: -8039881348459288230
+    second: Naves_1
+  - first:
+      213: 8839699582467403087
+    second: Naves_2
+  - first:
+      213: 7855413188102014621
+    second: Naves_3
+  - first:
+      213: -4337763676086244611
+    second: Naves_4
+  - first:
+      213: -6486473035782963750
+    second: Naves_5
+  - first:
+      213: 7582873258390319694
+    second: Naves_6
+  - first:
+      213: 3497918998462577635
+    second: Naves_7
+  - first:
+      213: -7534877061779456704
+    second: Naves_8
+  - first:
+      213: 3254724759906466888
+    second: Naves_9
+  - first:
+      213: -5529504458385668266
+    second: Naves_10
+  - first:
+      213: -197049962571347162
+    second: Naves_11
+  - first:
+      213: 9154296042246847309
+    second: Naves_12
+  - first:
+      213: -1428803959194339116
+    second: Naves_13
+  - first:
+      213: -5650935475528879701
+    second: Naves_14
+  - first:
+      213: 1469659532822642850
+    second: Naves_15
+  - first:
+      213: 8074719552394199077
+    second: Naves_16
+  - first:
+      213: 3851272458560253406
+    second: Naves_17
+  - first:
+      213: -420050814527125736
+    second: Naves_18
+  - first:
+      213: 1111057254664810340
+    second: Naves_19
+  - first:
+      213: -6959302360067708878
+    second: Naves_20
+  - first:
+      213: -1882121796553137399
+    second: Naves_21
+  - first:
+      213: 8987662432351411134
+    second: Naves_22
+  - first:
+      213: -1703341579734598555
+    second: Naves_23
+  - first:
+      213: -6118582652888715378
+    second: Naves_24
+  - first:
+      213: 7962613921094925015
+    second: Naves_25
+  - first:
+      213: -689451667578992498
+    second: Naves_26
+  - first:
+      213: 6952212731479033688
+    second: Naves_27
+  - first:
+      213: 6875469098380663539
+    second: Naves_28
+  - first:
+      213: 8399944598202866649
+    second: Naves_29
+  - first:
+      213: -9131079162185065056
+    second: Naves_30
+  - first:
+      213: 951515770378843041
+    second: Naves_31
+  - first:
+      213: -7739452002592476284
+    second: Naves_32
+  - first:
+      213: -4886425313538493719
+    second: Naves_33
+  - first:
+      213: 8750647442725292862
+    second: Naves_34
+  - first:
+      213: -5878203034493337402
+    second: Naves_35
+  - first:
+      213: 5960900798748329535
+    second: Naves_36
+  - first:
+      213: 1169388510815870379
+    second: Naves_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Naves_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 699
+        width: 180
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4bf764a8a5a02d0800000000000000
+      internalID: -3311735026042817328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_1
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1136
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59abccb28a9c6090800000000000000
+      internalID: -8039881348459288230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_2
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1087
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d632e7febecaa70800000000000000
+      internalID: 8839699582467403087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_3
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1087
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d964db0cca8040d60800000000000000
+      internalID: 7855413188102014621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 691
+        width: 180
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa69474bea2dc3c0800000000000000
+      internalID: -4337763676086244611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_5
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1053
+        width: 106
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addb109042b6bf5a0800000000000000
+      internalID: -6486473035782963750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_6
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1108
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42f92f7d07cb3960800000000000000
+      internalID: 7582873258390319694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 677
+        width: 178
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebb37cdbca1b8030800000000000000
+      internalID: 3497918998462577635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_8
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 655
+        width: 387
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d756adb3dbe6790800000000000000
+      internalID: -7534877061779456704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_9
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 937
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cb4e3ccea1b2d20800000000000000
+      internalID: 3254724759906466888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_10
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 939
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657cbfdddf04343b0800000000000000
+      internalID: -5529504458385668266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 921
+        width: 180
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b4ee16a10f34df0800000000000000
+      internalID: -197049962571347162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 676
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b33e6bfb79a0f70800000000000000
+      internalID: 9154296042246847309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 934
+        width: 180
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8bc868e5edb2ce0800000000000000
+      internalID: -1428803959194339116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_14
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 915
+        width: 180
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1b27cff18d391b0800000000000000
+      internalID: -5650935475528879701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_15
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 393
+        width: 272
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a009aafe87456410800000000000000
+      internalID: 1469659532822642850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_16
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 526
+        width: 379
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5208b55b6aa2f0070800000000000000
+      internalID: 8074719552394199077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 434
+        width: 180
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddaab965e7727530800000000000000
+      internalID: 3851272458560253406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 431
+        width: 180
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8174f7c720eab2af0800000000000000
+      internalID: -420050814527125736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 434
+        width: 180
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46faa6dbfa44b6f00800000000000000
+      internalID: 1111057254664810340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 426
+        width: 174
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23860af10679b6f90800000000000000
+      internalID: -6959302360067708878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 76
+        width: 696
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9032e6ca23c51e5e0800000000000000
+      internalID: -1882121796553137399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_22
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 202
+        width: 344
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbdd611d579abc70800000000000000
+      internalID: 8987662432351411134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_26
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 203
+        width: 332
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8847287c539e66f0800000000000000
+      internalID: -689451667578992498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_34
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 21
+        width: 332
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b425a7c7b807970800000000000000
+      internalID: 8750647442725292862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_37
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 17
+        width: 339
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad5a97a7a08a3010800000000000000
+      internalID: 1169388510815870379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bf9efbfd5c61bf147baf1701718f0d36
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Naves_0: -3311735026042817328
+      Naves_1: -8039881348459288230
+      Naves_10: -5529504458385668266
+      Naves_11: -197049962571347162
+      Naves_12: 9154296042246847309
+      Naves_13: -1428803959194339116
+      Naves_14: -5650935475528879701
+      Naves_15: 1469659532822642850
+      Naves_16: 8074719552394199077
+      Naves_17: 3851272458560253406
+      Naves_18: -420050814527125736
+      Naves_19: 1111057254664810340
+      Naves_2: 8839699582467403087
+      Naves_20: -6959302360067708878
+      Naves_21: -1882121796553137399
+      Naves_22: 8987662432351411134
+      Naves_23: -1703341579734598555
+      Naves_24: -6118582652888715378
+      Naves_25: 7962613921094925015
+      Naves_26: -689451667578992498
+      Naves_27: 6952212731479033688
+      Naves_28: 6875469098380663539
+      Naves_29: 8399944598202866649
+      Naves_3: 7855413188102014621
+      Naves_30: -9131079162185065056
+      Naves_31: 951515770378843041
+      Naves_32: -7739452002592476284
+      Naves_33: -4886425313538493719
+      Naves_34: 8750647442725292862
+      Naves_35: -5878203034493337402
+      Naves_36: 5960900798748329535
+      Naves_37: 1169388510815870379
+      Naves_4: -4337763676086244611
+      Naves_5: -6486473035782963750
+      Naves_6: 7582873258390319694
+      Naves_7: 3497918998462577635
+      Naves_8: -7534877061779456704
+      Naves_9: 3254724759906466888
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
